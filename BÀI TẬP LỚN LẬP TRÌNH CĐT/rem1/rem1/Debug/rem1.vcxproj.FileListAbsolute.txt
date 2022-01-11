@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\rem1\rem1\Debug\rem1.Form1.resources
+C:\Users\Admin\source\repos\rem1\rem1\Debug\rem1.vcxproj.GenerateResource.cache
+C:\Users\Admin\source\repos\rem1\rem1\Debug\rem1.vcxproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\rem1\rem1\Debug\rem1.MyForm1.resources
+E:\BÀI TẬP LỚN LẬP TRÌNH CĐT\rem1\rem1\Debug\rem1.vcxproj.AssemblyReference.cache
+E:\BÀI TẬP LỚN LẬP TRÌNH CĐT\rem1\rem1\Debug\rem1.Form1.resources
+E:\BÀI TẬP LỚN LẬP TRÌNH CĐT\rem1\rem1\Debug\rem1.MyForm1.resources
+E:\BÀI TẬP LỚN LẬP TRÌNH CĐT\rem1\rem1\Debug\rem1.vcxproj.GenerateResource.cache

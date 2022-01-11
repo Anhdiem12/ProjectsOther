@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+E:\BÀI TẬP LỚN LẬP TRÌNH CĐT\rem1\rem1\Form1.h(562,30): warning C4101: 'e': unreferenced local variable
+E:\BÀI TẬP LỚN LẬP TRÌNH CĐT\rem1\rem1\Form1.h(587,29): warning C4101: 'e': unreferenced local variable
+E:\BÀI TẬP LỚN LẬP TRÌNH CĐT\rem1\rem1\Form1.h(604,29): warning C4101: 'e': unreferenced local variable
+E:\BÀI TẬP LỚN LẬP TRÌNH CĐT\rem1\rem1\Form1.h(622,29): warning C4101: 'e': unreferenced local variable
+E:\BÀI TẬP LỚN LẬP TRÌNH CĐT\rem1\rem1\Form1.h(640,29): warning C4101: 'e': unreferenced local variable
+E:\BÀI TẬP LỚN LẬP TRÌNH CĐT\rem1\rem1\Form1.h(676,29): warning C4101: 'e': unreferenced local variable
+  Form1.cpp
+  MyForm.cpp
+  MyForm1.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  rem1.vcxproj -> E:\BÀI TẬP LỚN LẬP TRÌNH CĐT\rem1\Debug\rem1.exe
